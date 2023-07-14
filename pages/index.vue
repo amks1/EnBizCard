@@ -1126,7 +1126,7 @@ export default {
       },
       colors: {
         logoBg: {
-          color: `#059669`,
+          color: `#0a061c`,
           openPalette: false,
         },
         mainBg: {
@@ -1134,7 +1134,7 @@ export default {
           openPalette: false,
         },
         buttonBg: {
-          color: `#059669`,
+          color: `#f94012`,
           openPalette: false,
         },
         cardBg: {
